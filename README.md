@@ -2,7 +2,7 @@
 <div>
   
 <p>
-  <h1 align="center"><b>Hey there, Magno here! 👋</b></h1>
+  <h1 align="center"><b>Hi there! Magno here! 👋</b></h1>
 </p>
 
 <a href="https://github.com/magnoClovis"> </a>
