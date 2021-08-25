@@ -43,12 +43,12 @@ About me
 </p>
 
 <p align='center'>
-  <img align="center" height="150em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "Magno's GitHub Stats"/> 
+  <img align="center" height="250em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "Magno's GitHub Stats"/> 
 </p>
 
 
 <p align='center'>
-<img align="center" height="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="center" height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
     
 </p>
 
