@@ -43,7 +43,7 @@ About me
 </p>
 
 <p align='center'>
-  <img align="center" height="200em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "Magno's GitHub Stats"/> 
+  <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "Magno's GitHub Stats"/> 
 </p>
 
 
