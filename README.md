@@ -48,7 +48,7 @@ About me
 
 
 <p align='center'>
-<img align="center" height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="center" height="280em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
     
 </p>
 
