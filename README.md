@@ -35,11 +35,11 @@ About me
 
 ✔️**Python**
 
-    ✨**NumPy**
+   ✨**NumPy**
   
-    ✨**Pandas**
+   ✨**Pandas**
   
-    ✨**Matplotlib**
+   ✨**Matplotlib**
  
 ✔️ **C/C++**
 
