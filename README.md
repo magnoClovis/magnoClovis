@@ -31,9 +31,12 @@ About me
 - ⚡ Fun fact: I love dancing and sports! :man_dancing: :swimming_man:
 
 
-### Languages and Tools
+### Programming Languages and Tools
 
 ✔️**Python**
+  ✨**NumPy**
+  ✨**Pandas**
+  ✨**Matplotlib**
  
 ✔️ **C/C++**
 
