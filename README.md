@@ -28,7 +28,7 @@ About me
 - 🥅 2021 Goals: Enhance my front-end skills and learn more abou AI tools! :robot:
 - 💬 Ask me about anything! I will be happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/clovismagno) :ok_hand:
-- ⚡ Fun fact: I love dancing and sports! :man_dancing: :swimming_man:
+- ⚡ Fun fact: I love dancing and swimming! :man_dancing: :swimming_man:
 
 
 ### Programming Languages and Tools
