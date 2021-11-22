@@ -41,15 +41,9 @@ About me
 
  
 </p>
-
-<p align='center'>
-  <img align="left" height="190em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&&theme=great-gatsby&include_all_commits=true&count_private=true" alt = "Magno's GitHub Stats"/> 
-</p>
-
-
-<p align='center'>
+<div>
+<img align="left" height="190em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&&theme=great-gatsby&include_all_commits=true&count_private=true" alt = "Magno's GitHub Stats"/> 
 <img align="right" height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&&show_icons=true&theme=great-gatsby"/>
-    
-</p>
+</div>
 
 <h3 align="center">Feel free to get in touch with me anytime, it will be a pleasure to connect with you!</h3>
