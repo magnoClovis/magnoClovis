@@ -33,7 +33,7 @@ About me
 
 ### Programming Languages and Tools
 
-✔️**Python** ✨**NumPy**, **Pandas**, **Matplotlib**
+✔️**Python** ✨ **NumPy,** **Pandas,** **Matplotlib**
  
 ✔️ **C/C++**
 
