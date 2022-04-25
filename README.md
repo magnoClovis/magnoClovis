@@ -25,7 +25,7 @@ About me
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning front-end programming :computer: 
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Enhance my front-end skills and learn more abou AI tools! :robot:
+- 🥅 2022 Goals: Enhance my front-end skills and learn more about AI tools! :robot:
 - 💬 Ask me about anything! I will be happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/clovismagno) :ok_hand:
 - ⚡ Fun fact: I love dancing and swimming! 🕺🏾 🏊🏾
