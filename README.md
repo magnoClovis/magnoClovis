@@ -42,9 +42,14 @@ About me
  
 </p>
 <div>
+<img src="https://www.codewars.com/users/magnoClovis/badges/large" alt="magnoClovis' Codewars Badge"/>
+</div>
+<br>
+<div>
 <a href="https://github.com/magnoClovis">
 <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=magnoClovis&show_icons=true&&theme=great-gatsby&include_all_commits=true&count_private=true" alt = "Magno's GitHub Stats"/> 
 <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnoClovis&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
+
 
 <h3 align="center">Feel free to get in touch with me anytime, it will be a pleasure to connect with you!</h3>
